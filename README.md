@@ -9,11 +9,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bread-bang/Go_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Bread-bang/Go_LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bread-bang/Go_LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bread-bang/Go_LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -35,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bread-bang/Go_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
