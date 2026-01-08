@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Bread-bang/Go_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Bread-bang/Go_LeetCode/tree/master/0283-move-zeroes) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Bread-bang/Go_LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0189-rotate-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Bread-bang/Go_LeetCode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
