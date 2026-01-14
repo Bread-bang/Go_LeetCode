@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bread-bang/Go_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bread-bang/Go_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Bread-bang/Go_LeetCode/tree/master/0169-majority-element) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bread-bang/Go_LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bread-bang/Go_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bread-bang/Go_LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
